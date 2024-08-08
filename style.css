@@ -10,6 +10,11 @@ body::before {
     border-radius: 10px;
 }
 
+#questions .accordion-body {
+    padding: 3rem !important;
+}
+
+
 @media(min-width: 768px) {
     .news-input{
         width: 50%;
